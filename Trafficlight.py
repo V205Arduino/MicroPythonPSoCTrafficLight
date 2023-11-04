@@ -1,9 +1,7 @@
 import time
 from machine import Pin
 
-time.sleep(1)           # sleep for 1 second
-time.sleep_ms(500)      # sleep for 500 milliseconds
-time.sleep_us(10) 
+
 
 
 
